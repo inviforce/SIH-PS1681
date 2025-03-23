@@ -12,7 +12,7 @@ The folder SIH contains the code for the website. To run the application, simply
 
 The folder SIH also contains the weights of the trained model.
 
-## Requirements
+### Requirements
 
 ### Prerequisites:
 - **Python 3**
